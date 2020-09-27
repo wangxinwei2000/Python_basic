@@ -20,4 +20,4 @@ else:
 x=hashlib.md5()
 x.update('abc'.encode('utf-8'))
 x.update('123'.encode('utf-8'))
-print(x.hexdigest())#==abc123
+print(x.hexdigest())#==abc123//
