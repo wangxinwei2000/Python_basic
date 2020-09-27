@@ -16,3 +16,8 @@ if x1.hexdigest() == code1:
     print('密码正确')
 else:
     print('密码错误')
+
+x=hashlib.md5()
+x.update('abc'.encode('utf-8'))
+x.update('123'.encode('utf-8'))
+print(x.hexdigest())#==abc123
