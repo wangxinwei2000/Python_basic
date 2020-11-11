@@ -85,3 +85,5 @@ word1 = copy.deepcopy(word)
 word[-1][0]='T'
 
 print(word1)
+
+print('*'*34)

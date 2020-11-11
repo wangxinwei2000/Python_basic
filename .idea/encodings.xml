@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-16">
+    <file url="file://$PROJECT_DIR$/hashlib模块.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/os模块的使用.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/random 模块.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sys模块.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/uuid模块.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/文件操作.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

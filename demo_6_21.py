@@ -783,5 +783,6 @@
 # ])
 # print("End of File")
 # ===================================================djingo的使用
-import django
-
+# import django
+from Pack_oneself import *
+print(model_1.add(78,90))
